@@ -1,0 +1,40 @@
+{
+        "_id" : ObjectId("566e652490c953d81680d292"),
+        "answertype" : "text",
+        "createdDate" : ISODate("2015-12-14T06:43:48.759Z"),
+        "is_deleted" : false,
+        "enable" : true,
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("566e654490c953d81680d293"),
+        "answertype" : "radio",
+        "createdDate" : ISODate("2015-12-14T06:44:20.402Z"),
+        "is_deleted" : false,
+        "enable" : true,
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("566e654a90c953d81680d294"),
+        "answertype" : "checkbox",
+        "createdDate" : ISODate("2015-12-14T06:44:26.190Z"),
+        "is_deleted" : false,
+        "enable" : true,
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("566e655190c953d81680d295"),
+        "answertype" : "select",
+        "createdDate" : ISODate("2015-12-14T06:44:33.815Z"),
+        "is_deleted" : false,
+        "enable" : true,
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("566e655f90c953d81680d296"),
+        "answertype" : "multi-select",
+        "createdDate" : ISODate("2015-12-14T06:44:47.341Z"),
+        "is_deleted" : false,
+        "enable" : true,
+        "__v" : 0
+}
